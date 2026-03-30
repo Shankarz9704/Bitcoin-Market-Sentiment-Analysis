@@ -69,3 +69,11 @@ With the generated analysis, the core findings from this dataset include:
 ## 🎯 How to Explain in an Interview (Best Answer)
 
 > “In this project, I analyzed Bitcoin market sentiment using Python, SQL, and Power BI. I started with raw data collection, performing data cleaning and preprocessing in Pandas. I then performed exploratory data analysis (EDA) to identify core trends. I used SQL to extract metric insights and built dashboards in Power BI. Finally, I found that market sentiment strongly affects Bitcoin prices, with distinct highs mapping directly to the 'Greed' phase.”
+
+---
+
+## 👤 Author
+
+* **Shankar**
+* **LinkedIn**: [linkedin.com/in/shankar9704](https://www.linkedin.com/in/shankar9704)
+* **GitHub**: [@Shankarz9704](https://github.com/Shankarz9704)
